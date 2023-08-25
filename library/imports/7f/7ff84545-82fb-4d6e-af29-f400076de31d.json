@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "behiteffect",
+    "texture": "d5e7589f-3b0f-46ba-a500-0bb7696c8dc2",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      481,
+      230
+    ],
+    "offset": [
+      1.5,
+      5
+    ],
+    "originalSize": [
+      488,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

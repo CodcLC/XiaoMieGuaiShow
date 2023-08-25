@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "block_bian3",
+    "texture": "9c42be5f-bd50-4ef1-bd25-f10325a8dde9",
+    "atlas": "ae836206-347b-4ca6-b487-59b573ca66a7",
+    "rect": [
+      538,
+      237,
+      104,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rewardskin",
+    "texture": "8cbde1e7-4ba8-49ae-8be1-a43d9b79ae11",
+    "atlas": "",
+    "rect": [
+      41,
+      46,
+      664,
+      647
+    ],
+    "offset": [
+      0.5,
+      -4
+    ],
+    "originalSize": [
+      745,
+      731
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

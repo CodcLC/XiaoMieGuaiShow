@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lose",
+    "texture": "969d652b-2300-4093-966c-66557868a7bf",
+    "atlas": "64dfa4ba-3ea4-4d15-ad1b-2a78231ce744",
+    "rect": [
+      65,
+      0,
+      327,
+      302
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      327,
+      302
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

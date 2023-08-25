@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tangkuang.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_kuang": {
+      "__uuid__": "ecf290ff-0f6c-4bc5-b67b-46fd252e9cba"
+    },
+    "boom_desc": {
+      "__uuid__": "76f01dcb-1ec0-44be-8522-01340c6374eb"
+    },
+    "btnlook": {
+      "__uuid__": "bf9e8b11-e4ae-4b7a-a6d5-7d6a6db6e134"
+    },
+    "btnlookvideo": {
+      "__uuid__": "4d4120e3-aafc-468b-94a1-805410da13a7"
+    },
+    "buy": {
+      "__uuid__": "d713ed87-6e3c-457b-8fe9-4532c0e6fb2a"
+    },
+    "close2": {
+      "__uuid__": "3635f68f-6205-484f-abce-820e34b282e1"
+    },
+    "getbtn": {
+      "__uuid__": "30ea9ba2-1d3f-45a8-97eb-3ee82d926159"
+    },
+    "luckygame": {
+      "__uuid__": "a540ae08-77b1-4c4e-a46d-6b3fda6f7084"
+    },
+    "tool_title": {
+      "__uuid__": "f2067374-3420-40dc-a24c-7727bf63eb18"
+    }
+  }
+}

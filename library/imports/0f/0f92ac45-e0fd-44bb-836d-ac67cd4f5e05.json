@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tangkuang",
+    "texture": "8a1b4080-09c3-4834-a62a-63041393598b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      844,
+      941
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      844,
+      941
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

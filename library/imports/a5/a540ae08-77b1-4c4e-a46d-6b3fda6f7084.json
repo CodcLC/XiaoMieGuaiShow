@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luckygame",
+    "texture": "8a1b4080-09c3-4834-a62a-63041393598b",
+    "atlas": "5cc7b808-227d-4efb-9baf-78e30b151df1",
+    "rect": [
+      266,
+      0,
+      441,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      441,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

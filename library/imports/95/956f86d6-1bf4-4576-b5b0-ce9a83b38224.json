@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blood_progress",
+    "texture": "9c42be5f-bd50-4ef1-bd25-f10325a8dde9",
+    "atlas": "ae836206-347b-4ca6-b487-59b573ca66a7",
+    "rect": [
+      199,
+      357,
+      298,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      298,
+      32
+    ],
+    "capInsets": [
+      128,
+      16,
+      130,
+      16
+    ]
+  }
+}

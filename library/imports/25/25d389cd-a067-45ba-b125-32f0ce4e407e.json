@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skynight",
+    "texture": "306ea7c3-6425-4637-b609-4357c6c78e44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      628
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      628
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

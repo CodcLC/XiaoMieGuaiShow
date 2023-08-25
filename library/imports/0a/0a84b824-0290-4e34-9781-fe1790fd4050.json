@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "add_btn": {
+      "__uuid__": "8a0a6a6d-270f-4c60-adeb-b71e70510907"
+    },
+    "ask": {
+      "__uuid__": "89704faf-f362-4eec-b126-54372b1d4e9d"
+    },
+    "boom": {
+      "__uuid__": "1e1a4e02-e29a-4a6b-84d8-34a7d01e671b"
+    },
+    "btndoublescore": {
+      "__uuid__": "46836cf3-3c3c-44a5-a8ef-3689623f4c7a"
+    },
+    "btnvideo": {
+      "__uuid__": "cc87f7f4-b0da-4e8a-8fba-98a8375fb047"
+    },
+    "coinbg": {
+      "__uuid__": "d4eda0e5-334e-4310-97ea-d23649cddbf2"
+    },
+    "gold": {
+      "__uuid__": "2d7ff856-2818-4c3c-b9c4-b4d872914261"
+    },
+    "return_menu": {
+      "__uuid__": "49c4c5d6-d76e-4739-bde5-9f82cc900b1a"
+    }
+  }
+}

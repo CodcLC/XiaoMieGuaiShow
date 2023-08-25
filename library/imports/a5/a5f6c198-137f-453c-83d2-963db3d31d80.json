@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "stepview.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bgtitle": {
+      "__uuid__": "ea6211b7-45ed-4c9c-ac2d-d73d2d20b18b"
+    },
+    "duanweishengji": {
+      "__uuid__": "aab5d9f4-0e12-48e6-882a-e5769717f076"
+    },
+    "gantanhao": {
+      "__uuid__": "7e4ec688-d552-4e81-bcdd-9b871fcd0c98"
+    },
+    "stepshare": {
+      "__uuid__": "a2ec8b25-e979-4e2e-86b1-48c7a055b09e"
+    },
+    "yuanjiaojuxing": {
+      "__uuid__": "796cd2fd-7373-4108-9460-ab5eb4b5b840"
+    }
+  }
+}

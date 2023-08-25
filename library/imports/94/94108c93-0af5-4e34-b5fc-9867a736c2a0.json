@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "menu_ui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btnskin": {
+      "__uuid__": "82831c5f-7eae-4f4e-9eb6-7a4a4d4b4c4c"
+    },
+    "gitf_newbie": {
+      "__uuid__": "d032b5d0-235f-4091-aa69-6ffc0a99c330"
+    },
+    "gold_bg": {
+      "__uuid__": "1ccdd1d1-863f-4165-80f2-04543a7f1e50"
+    },
+    "home_btn_play": {
+      "__uuid__": "80d0edba-eeaa-4bfc-af9a-f70326342a75"
+    },
+    "logo": {
+      "__uuid__": "ee24e353-c316-4c3e-ad0e-541c991e44b3"
+    },
+    "love_icon": {
+      "__uuid__": "8d6d4793-1104-4964-9d52-48ce6854620c"
+    },
+    "music_off": {
+      "__uuid__": "6ea1702c-fbf1-4b72-818b-0515ce0ec3f0"
+    },
+    "music_on": {
+      "__uuid__": "59026ba8-304c-4a2a-bd82-db4c11c64f84"
+    },
+    "rank_btn": {
+      "__uuid__": "0fc498cf-8c74-47ba-b2b1-0abd293545ed"
+    },
+    "sharebtnmenu": {
+      "__uuid__": "11b7df5f-140c-4bb6-99cd-3de9625f1de0"
+    },
+    "stepbtn": {
+      "__uuid__": "6ec5240f-f872-4746-967f-2670a41e44ff"
+    }
+  }
+}

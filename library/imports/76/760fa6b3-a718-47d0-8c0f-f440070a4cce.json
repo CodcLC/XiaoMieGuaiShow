@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_song",
+    "texture": "110b084c-0598-418c-b49f-0c9c19982e3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      421,
+      180
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      422,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

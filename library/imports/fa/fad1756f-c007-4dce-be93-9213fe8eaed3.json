@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doublescore",
+    "texture": "2316bf2b-ad41-41b5-8776-3b2431f44bc5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      160,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

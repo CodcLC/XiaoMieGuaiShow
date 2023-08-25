@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changle",
+    "texture": "969d652b-2300-4093-966c-66557868a7bf",
+    "atlas": "64dfa4ba-3ea4-4d15-ad1b-2a78231ce744",
+    "rect": [
+      0,
+      483,
+      422,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      422,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

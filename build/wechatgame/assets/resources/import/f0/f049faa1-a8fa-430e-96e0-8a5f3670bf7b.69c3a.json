@@ -1,0 +1,1 @@
+[1,0,0,[["cc.AnimationClip",["_name","_duration","curveData"],1,11]],[[0,0,1,2,3]],[[0,"playstep",0.4166666666666667,[{},"props",11,[{"opacity":[{"frame":0,"value":0,"curve":"quartIn"},{"frame":0.4166666666666667,"value":255}]},"scale",12,[[[{"frame":0,"curve":"quartIn"},"value",8,[0,4,4]],[{"frame":0.4166666666666667},"value",8,[0,1,1]]],11,11]]]]],0,0,[],[],[]]

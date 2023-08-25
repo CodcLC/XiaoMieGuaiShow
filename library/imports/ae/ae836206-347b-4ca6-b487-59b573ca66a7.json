@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "block.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "block1": {
+      "__uuid__": "30a7bb37-1815-4f78-b7dc-9492ab87db1c"
+    },
+    "block2": {
+      "__uuid__": "8e5b6aaf-64dc-458d-bfa0-c4750fb977ff"
+    },
+    "block3": {
+      "__uuid__": "fc260b11-83e9-4606-af41-4cb6ab25fc9c"
+    },
+    "block4": {
+      "__uuid__": "e927e6bd-0d7f-4171-af43-e10dba860ee3"
+    },
+    "block_bg": {
+      "__uuid__": "75d07290-d659-4415-af07-4d172375436f"
+    },
+    "block_bg2": {
+      "__uuid__": "58a58c73-6611-457f-a718-e820ea2a7a44"
+    },
+    "block_bian1": {
+      "__uuid__": "055a392e-f32e-438f-8a1c-eec4de8ae8ac"
+    },
+    "block_bian2": {
+      "__uuid__": "3ff2ab20-c591-4bb0-89ef-68de96cda73b"
+    },
+    "block_bian3": {
+      "__uuid__": "0ecbf7ac-cf06-4b40-a6ae-3e75b8ef96c3"
+    },
+    "block_bian4": {
+      "__uuid__": "007e2105-193f-4460-a429-38d72d8e19f5"
+    },
+    "block_bright": {
+      "__uuid__": "6fdd67c5-cc6e-459e-95c0-1ae58f50551b"
+    },
+    "block_di1": {
+      "__uuid__": "a3fd1ba1-8020-45cb-8eb2-d9015dbd8e49"
+    },
+    "block_di2": {
+      "__uuid__": "51b9088c-23f3-453d-882a-8c287d935c41"
+    },
+    "block_di3": {
+      "__uuid__": "a36919f6-44b0-4eb3-a0aa-b6e25dc259a8"
+    },
+    "block_di4": {
+      "__uuid__": "4239ae3d-06ab-4203-81ae-65060815bf74"
+    },
+    "block_monster1": {
+      "__uuid__": "4e46fd44-a25d-456e-970d-303152708509"
+    },
+    "block_monster2": {
+      "__uuid__": "b347a074-70e3-4fa2-b9d1-4fe6364863ef"
+    },
+    "block_monster3": {
+      "__uuid__": "e8cc153d-4326-4f42-bd1b-156396c17126"
+    },
+    "block_monster4": {
+      "__uuid__": "b2037982-91a0-4bd6-9cdd-4f8733a4af90"
+    },
+    "block_star1": {
+      "__uuid__": "6979b2c0-8faf-4700-995c-2c4d94e11446"
+    },
+    "block_star2": {
+      "__uuid__": "2944e430-9be4-44c8-a679-ab710997a5cc"
+    },
+    "block_star3": {
+      "__uuid__": "40065c72-4b67-4eeb-9320-659c42967c37"
+    },
+    "block_star4": {
+      "__uuid__": "0d45e125-1257-4c6b-9807-7b7baca93d61"
+    },
+    "block_subbg": {
+      "__uuid__": "2d4a6147-1ec7-4ab7-8d5b-18027c6943f4"
+    },
+    "blood_progress": {
+      "__uuid__": "956f86d6-1bf4-4576-b5b0-ce9a83b38224"
+    },
+    "blood_progress_bg": {
+      "__uuid__": "985a5179-1cf3-4876-9e73-468e19c42b14"
+    },
+    "boom_block": {
+      "__uuid__": "a6a39688-c04c-42d6-861a-76f824b206cb"
+    },
+    "bubble1_bg": {
+      "__uuid__": "b282e304-009b-42bd-90bf-94bd5f4be68d"
+    },
+    "mon_stand": {
+      "__uuid__": "abb02db4-6a04-4a3b-9d25-909e83cbf39e"
+    },
+    "rock": {
+      "__uuid__": "9bc8276c-9c1e-44b6-88a7-af39d849c41c"
+    },
+    "solider": {
+      "__uuid__": "0b0776ae-1874-49c3-be62-18bad5343fd9"
+    }
+  }
+}
